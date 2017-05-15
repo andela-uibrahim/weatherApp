@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.main {
+    max-width: 40%;
+    color: white;
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+}
